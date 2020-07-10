@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yandexsearch version="1.0">
+    <request>
+        <query>yandex</query>
+        <page>0</page>
+        <sortby order="descending" priority="no">rlv</sortby>
+        <maxpassages></maxpassages>
+        <groupings>
+            <groupby attr="d" mode="deep" groups-on-page="10" docs-in-group="1" curcateg="-1" />
+        </groupings>
+    </request>
+    <response date="20200710T060522">
+        <reqid>1594361122250463-1685162031627458738400206-production-app-host-man-web-yp-191-XML</reqid>
+        <found priority="phrase">40814382</found>
+        <found priority="strict">40814382</found>
+        <found priority="all">40814382</found>
+        <found-human>Нашлось 41 млн ответов</found-human>
+        <results>
+            <grouping attr="d" mode="deep" groups-on-page="10" docs-in-group="1" curcateg="-1">
+                <found priority="phrase">1478</found>
+                <found priority="strict">1478</found>
+                <found priority="all">1478</found>
+                <found-docs priority="phrase">32729915</found-docs>
+                <found-docs priority="strict">32729915</found-docs>
+                <found-docs priority="all">32729915</found-docs>
+                <found-docs-human>нашёл 33 млн ответов</found-docs-human>
+                <page first="1" last="10">0</page>
+                <group>
+                    <categ attr="d" name="UngroupVital59.ru" />
+                    <doccount>4</doccount>
+                    <relevance />
+                    <doc id="Z2D2F1681C7BF39FD">
+                        <relevance />
+                        <url>https://yandex.ru/</url>
+                        <domain>yandex.ru</domain>
+                        <title>Яндекс — поисковая система и интернет-портал</title>
+                        <headline>Поиск по интернету с учётом региона пользователя. Возможность искать по картинкам, видео, картам, новостям, блогам, товарам и словарям. Бесплатная почта, фотохостинг и другие сервисы.</headline>
+                        <modtime>20061112T063244</modtime>
+                        <size>2738</size>
+                        <charset>utf-8</charset>
+                        <properties>
+                            <_PassagesType>1</_PassagesType>
+                            <lang>ru</lang>
+                        </properties>
+                        <mime-type>text/html</mime-type>
+                        <saved-copy-url>https://yandexwebcache.net/yandbtm?lang=ru&amp;fmode=inject&amp;tm=1594361122&amp;tld=com&amp;la=1594148480&amp;text=yandex&amp;url=https%3A%2F%2Fyandex.ru%2F&amp;l10n=en&amp;mime=html&amp;sign=a9d7311c80a53731e71871a83974d3a4&amp;keyno=0</saved-copy-url>
+                    </doc>
+                </group>
+                <group>
+                    <categ attr="d" name="UngroupVital58.ru" />
+                    <doccount>4</doccount>
+                    <relevance />
+                    <doc id="Z67C01A86EC0DF335">
+                        <relevance />
+                        <url>https://yandex.ru/m/</url>
+                        <domain>yandex.ru</domain>
+                        <title>Яндекс</title>
+                        <headline>Яндекс — поисковая система и интернет-портал. Поиск по интернету и другие сервисы: на                            <hlword>yandex</hlword>.ru есть карты и навигатор, транспорт и такси, погода, новости, музыка, телепрограмма...</headline>
+                        <modtime>20090829T135047</modtime>
+                        <size>919</size>
+                        <charset>utf-8</charset>
+                        <properties>
+                            <_PassagesType>1</_PassagesType>
+                            <lang>ru</lang>
+                        </properties>
+                        <mime-type>text/html</mime-type>
+                        <saved-copy-url>https://yandexwebcache.net/yandbtm?lang=ru&amp;fmode=inject&amp;tm=1594361122&amp;tld=com&amp;la=1594148480&amp;text=yandex&amp;url=https%3A%2F%2Fyandex.ru%2Fm%2F&amp;l10n=en&amp;mime=html&amp;sign=0a1326bce456106f72c62b2b12b79151&amp;keyno=0</saved-copy-url>
+                    </doc>
+                </group>
+                <group>
+                    <categ attr="d" name="yandex.com" />
+                    <doccount>21570</doccount>
+                    <relevance />
+                    <doc id="Z08D040A2EFD39E65">
+                        <relevance />
+                        <url>https://yandex.com/news</url>
+                        <domain>yandex.com</domain>
+                        <title>Яндекс.Новости: Главные новости сегодня, самые свежие...</title>
+                        <headline>Журналиста Ивана Сафронова обвинили в госизмене. Главное. В отношении Ивана Сафронова возбуждено уголовное дело по статье «Госизмена» (275 УК РФ, от 12 до 20 лет лишения...</headline>
+                        <modtime>20141014T111642</modtime>
+                        <size>1884</size>
+                        <charset>utf-8</charset>
+                        <properties>
+                            <_PassagesType>1</_PassagesType>
+                            <lang>ru</lang>
+                        </properties>
+                        <mime-type>text/html</mime-type>
+                        <saved-copy-url>https://yandexwebcache.net/yandbtm?lang=ru&amp;fmode=inject&amp;tm=1594361122&amp;tld=com&amp;la=1594147968&amp;text=yandex&amp;url=https%3A%2F%2Fyandex.com%2Fnews&amp;l10n=en&amp;mime=html&amp;sign=ee23b843e5e5f2ff9074d2954c7636fc&amp;keyno=0</saved-copy-url>
+                    </doc>
+                </group>
+                <group>
+                    <categ attr="d" name="yandex.uz" />
+                    <doccount>65</doccount>
+                    <relevance />
+                    <doc id="Z41837336BB0748B0">
+                        <relevance />
+                        <url>https://yandex.uz/</url>
+                        <domain>yandex.uz</domain>
+                        <title>Яндекс</title>
+                        <headline>Яндекс — поисковая система и интернет-портал. Поиск по интернету и другие сервисы: на                            <hlword>yandex</hlword>.uz есть карты и навигатор, транспорт и такси, погода, новости, музыка, телепрограмма...</headline>
+                        <modtime>20141015T063124</modtime>
+                        <size>1352</size>
+                        <charset>utf-8</charset>
+                        <properties>
+                            <_PassagesType>1</_PassagesType>
+                            <lang>ru</lang>
+                        </properties>
+                        <mime-type>text/html</mime-type>
+                        <saved-copy-url>https://yandexwebcache.net/yandbtm?lang=ru&amp;fmode=inject&amp;tm=1594361122&amp;tld=com&amp;la=1594319488&amp;text=yandex&amp;url=https%3A%2F%2Fyandex.uz%2F&amp;l10n=en&amp;mime=html&amp;sign=bb239440a2f7b4975c68823faf22f69e&amp;keyno=0</saved-copy-url>
+                    </doc>
+                </group>
+                <group>
+                    <categ attr="d" name="youtube.com" />
+                    <doccount>1145</doccount>
+                    <relevance />
+                    <doc id="Z9CF9245088C0FC9D">
+                        <relevance />
+                        <url>https://www.youtube.com/channel/UCixlrqz8w-oa4UzdKyHLMaA</url>
+                        <domain>www.youtube.com</domain>
+                        <title>Яндекс - YouTube</title>
+                        <modtime>20130731T110631</modtime>
+                        <size>2323</size>
+                        <charset>utf-8</charset>
+                        <passages>
+                            <passage>Яндекс.Такси - Канал. ПодписатьсяВы подписаныОтменить подписку.                                <hlword>Yandex</hlword>.Cloud - Канал.</passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>0</_PassagesType>
+                            <lang>ru</lang>
+                        </properties>
+                        <mime-type>text/html</mime-type>
+                        <saved-copy-url>https://yandexwebcache.net/yandbtm?lang=ru&amp;fmode=inject&amp;tm=1594361122&amp;tld=com&amp;la=1594147840&amp;text=yandex&amp;url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCixlrqz8w-oa4UzdKyHLMaA&amp;l10n=en&amp;mime=html&amp;sign=2cadd5548fd587f0d7656359d48790aa&amp;keyno=0</saved-copy-url>
+                    </doc>
+                </group>
+                <group>
+                    <categ attr="d" name="ya.ru" />
+                    <doccount>2</doccount>
+                    <relevance />
+                    <doc id="Z798C0FA61259D2CD">
+                        <relevance />
+                        <url>https://ya.ru/</url>
+                        <domain>ya.ru</domain>
+                        <title>Яндекс — облегченная версия поисковой системы</title>
+                        <headline>Поисковая строка, доступ к почте и персональным сервисам на Яндексе.</headline>
+                        <modtime>20050523T043842</modtime>
+                        <size>54</size>
+                        <charset>utf-8</charset>
+                        <passages>
+                            <passage>посковая система                                <hlword>Yandex</hlword>.
+                            </passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>1</_PassagesType>
+                            <lang>ru</lang>
+                        </properties>
+                        <mime-type>text/html</mime-type>
+                        <saved-copy-url>https://yandexwebcache.net/yandbtm?lang=ru&amp;fmode=inject&amp;tm=1594361122&amp;tld=com&amp;la=1594148480&amp;text=yandex&amp;url=https%3A%2F%2Fya.ru%2F&amp;l10n=en&amp;mime=html&amp;sign=4a08a2a27856073f9ae0884969e25a38&amp;keyno=0</saved-copy-url>
+                    </doc>
+                </group>
+                <group>
+                    <categ attr="d" name="yandex.lt" />
+                    <doccount>6</doccount>
+                    <relevance />
+                    <doc id="Z9EDF27F822054BF9">
+                        <relevance />
+                        <url>https://yandex.lt/</url>
+                        <domain>yandex.lt</domain>
+                        <title>
+                            <hlword>Yandex</hlword> | Яндекс
+                        </title>
+                        <modtime>20140719T113855</modtime>
+                        <size>74</size>
+                        <charset>utf-8</charset>
+                        <passages>
+                            <passage>©                                <hlword>Yandex</hlword>.
+                            </passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>0</_PassagesType>
+                            <lang>en</lang>
+                        </properties>
+                        <mime-type>text/html</mime-type>
+                        <saved-copy-url>https://yandexwebcache.net/yandbtm?lang=en&amp;fmode=inject&amp;tm=1594361122&amp;tld=com&amp;la=1594147584&amp;text=yandex&amp;url=https%3A%2F%2Fyandex.lt%2F&amp;l10n=en&amp;mime=html&amp;sign=d213bd8841a6e286e4484477d589bfc4&amp;keyno=0</saved-copy-url>
+                    </doc>
+                </group>
+                <group>
+                    <categ attr="d" name="yandex.by" />
+                    <doccount>66</doccount>
+                    <relevance />
+                    <doc id="Z6CCC1B0A6A5C6425">
+                        <relevance />
+                        <url>https://yandex.by/</url>
+                        <domain>yandex.by</domain>
+                        <title>Яндекс</title>
+                        <headline>Яндекс — поисковая система и интернет-портал. Поиск по интернету и другие сервисы: на                            <hlword>yandex</hlword>.by есть карты и навигатор, транспорт и такси, погода, новости, музыка, телепрограмма...</headline>
+                        <modtime>20141028T150713</modtime>
+                        <size>2459</size>
+                        <charset>utf-8</charset>
+                        <properties>
+                            <_PassagesType>1</_PassagesType>
+                            <lang>ru</lang>
+                        </properties>
+                        <mime-type>text/html</mime-type>
+                        <saved-copy-url>https://yandexwebcache.net/yandbtm?lang=ru&amp;fmode=inject&amp;tm=1594361122&amp;tld=com&amp;la=1594302720&amp;text=yandex&amp;url=https%3A%2F%2Fyandex.by%2F&amp;l10n=en&amp;mime=html&amp;sign=cbab012654982d8c45b0c8268f1e2704&amp;keyno=0</saved-copy-url>
+                    </doc>
+                </group>
+                <group>
+                    <categ attr="d" name="yandex.fr" />
+                    <doccount>15</doccount>
+                    <relevance />
+                    <doc id="Z5C4D8E68AA36E143">
+                        <relevance />
+                        <url>https://yandex.fr/</url>
+                        <domain>yandex.fr</domain>
+                        <title>Яндекс</title>
+                        <modtime>20141014T101823</modtime>
+                        <size>198</size>
+                        <charset>utf-8</charset>
+                        <passages>
+                            <passage>Компания About <hlword>Yandex</hlword>© Яндекс.
+                            </passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>0</_PassagesType>
+                            <lang>ru</lang>
+                        </properties>
+                        <mime-type>text/html</mime-type>
+                        <saved-copy-url>https://yandexwebcache.net/yandbtm?lang=ru&amp;fmode=inject&amp;tm=1594361122&amp;tld=com&amp;la=1594147712&amp;text=yandex&amp;url=https%3A%2F%2Fyandex.fr%2F&amp;l10n=en&amp;mime=html&amp;sign=b2adacfca0c13105ac3cd4c1d71780d9&amp;keyno=0</saved-copy-url>
+                    </doc>
+                </group>
+                <group>
+                    <categ attr="d" name="yandex.kz" />
+                    <doccount>44</doccount>
+                    <relevance />
+                    <doc id="ZD3F8A31D6DBCF4B9">
+                        <relevance />
+                        <url>https://yandex.kz/</url>
+                        <domain>yandex.kz</domain>
+                        <title>Яндекс — поисковая система для Казахстана</title>
+                        <headline>Поиск информации с учетом морфологии русского и казахского языков. Возможность регионального уточнения поиска, настройки языка интерфейса. Параллельный поиск по картам, новостям, товарам.</headline>
+                        <modtime>20091014T191853</modtime>
+                        <size>642</size>
+                        <charset>utf-8</charset>
+                        <properties>
+                            <_PassagesType>1</_PassagesType>
+                            <lang>ru</lang>
+                        </properties>
+                        <mime-type>text/html</mime-type>
+                        <saved-copy-url>https://yandexwebcache.net/yandbtm?lang=ru&amp;fmode=inject&amp;tm=1594361122&amp;tld=com&amp;la=1594148480&amp;text=yandex&amp;url=https%3A%2F%2Fyandex.kz%2F&amp;l10n=en&amp;mime=html&amp;sign=58e028f7235213463796e40588778c4c&amp;keyno=0</saved-copy-url>
+                    </doc>
+                </group>
+            </grouping>
+        </results>
+    </response>
+</yandexsearch>
